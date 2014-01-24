@@ -1,0 +1,14 @@
+
+1. En ISO-fil inneholder bilde av en disk, iso er byte for byte kopi. Det er altså bare rådata fra disken, byggestener. En ISO-fil er ikke komprimert
+
+2. 
+
+3. Når du formaterer en lagringsenhet så sletter du informasjonen, og setter den opp på nytt slik at OS kan lese av lagringsenheten. Lagringsenheten må være formatert for at et OS skal kunne bruke den.
+
+4. Når du partisjonerer en lagringsenhet, deler du den opp i deler. En partisjon vil si at det er en del av en større harddisk. Når du partisjonerer gjør du harddisken tilgjengelig for et operativsystem. Slik som når du installerer et OS så vil du tildele dette OS'et en del av disken, som den bruker for å lagre ting på. Eksempel er windows som har C:
+
+5. Et verts OS er installert på maskinen, altså det opprinnelige OS'et. Et gjeste OS er installert på en virtuel maskin eller installert på en partisjonsdisk. I en virtualisering kan maskinen kjøre flere OS samtidig, slik som jeg som har Mac, men kjører Windows virtuelt.
+
+6. Virtual machine monitor som det også blir kalt er en programvare som kjører og skaper og kjører programvare. Type 1 hypervisor bruker vi direkte fra vertens maskinvare for å styre, og kan brukes til å administrere gjeste OS. 
+
+7. GNU er et UNIX lignende operativsystem, og består av fri programvare, og inneholder ingen Unix kode. Hvorfor GNU? Du har masse friheter, du kan tilpasse programmer, tilgang til kildekoder, og frihet til å forbedre og studere programmer. 
